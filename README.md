@@ -1,6 +1,6 @@
 # Barcode Inventory (self-hosted)
 
-A free inventory system that runs on your own PC. Scan an item's barcode or QR code to **check it in**, scan it again t.
+A free inventory system that runs on your own PC. Scan an item's barcode or QR code to **check it in**, scan it again to
 **check it out**. Every scan is saved with who did it and when, and the responsible party can sign in from a browser
 to see stock levels and the full history.
 
